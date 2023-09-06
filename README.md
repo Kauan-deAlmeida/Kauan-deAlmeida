@@ -1,20 +1,35 @@
 
 ## Olá! eu sou Kauan Almeida 🖐️
 
+<div align="center">
+       
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Kauan-Almeida)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kauan-almeida-1b5ba6169/)
 
+</div>
+       
+
+<div align="center">
+       
 ![Kauan de Almeida GitHub stats](https://github-readme-stats.vercel.app/api?username=Kauan-deAlmeida&show_icons=true&theme=dracula)
 
-##
-<br>
-<img align="center" height="180em" width="450em"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kauan-deAlmeida&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>
 
+##
+
+<br>
+<div align="center"><img align="center" height="180em" width="450em"
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kauan-deAlmeida&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>
+
+<div align="center">
 
 ## Tecnologias que eu uso no meu dia
 
-<div style=display: inline_block><br/>
+</div>
+
+
+<div align="center" style=display: inline_block><br/>
     <img align="center" alt="HTML5" src=https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white>
     <img align="center" alt="CSS3" src=https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white>
     <img align="center" alt="JavaScript" src=https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black>
