@@ -20,7 +20,7 @@
 <br>
 
 <div align="center">
-       ![](https://github-readme-streak-stats.herokuapp.com/?user=Kauan-deAlmeida&theme=jolly&hide_border=false)<br/>
+       ![](https://github-readme-streak-stats.herokuapp.com/?user=Kauan-deAlmeida&theme=jolly&hide_border=false)<br>
 </div>
 
 ##
