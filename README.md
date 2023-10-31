@@ -18,6 +18,14 @@
 ##
 
 <br>
+
+<div align="center">
+       ![](https://github-readme-streak-stats.herokuapp.com/?user=Kauan-deAlmeida&theme=jolly&hide_border=false)<br/>
+</div>
+
+##
+
+<br>
 <div align="center"><img align="center" height="180em" width="450em"
        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kauan-deAlmeida&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
